@@ -1,5 +1,5 @@
 ---
-title: 'NetSuite's Ridiculous Security Questions'
+title: 'NetSuite&#8217;s Ridiculous Security Questions'
 layout: post
 ---
 ![nutsweat](/images/nutsweat.jpg)

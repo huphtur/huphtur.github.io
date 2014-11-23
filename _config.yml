@@ -9,3 +9,6 @@ github_username:  huphtur
 # Build settings
 markdown: kramdown
 permalink: /:title/
+
+sass:
+style: :expanded

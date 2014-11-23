@@ -23,7 +23,7 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+strong { font-weight:bold; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -40,22 +40,9 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
+img, embed, iframe, object {
     max-width: 100%;
     vertical-align: middle;
-}
-
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
 }
 
 
@@ -80,7 +67,9 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-family: $head-font-family;
+    font-weight: 700;
+    margin-top: $spacing-unit;
 }
 
 
@@ -108,11 +97,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid $brand-color;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {
@@ -127,10 +113,8 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    font-size: ($base-font-size*.7);
+    background-color: $gray-color;
 }
 
 code {
@@ -181,24 +165,5 @@ pre {
         content: "";
         display: table;
         clear: both;
-    }
-}
-
-
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
     }
 }

@@ -108,7 +108,7 @@ At the finish you will be rewarded with tons of food and beer. Eat as much as yo
 
 That's it! By far the most brutal but fun race I've ever done and can't wait to it again next year (**April 12, 2015**)!
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/134955860/embed/c45f63569b9f6350e8df6936ca8742939b56401b'></iframe>
+<iframe height='405' width='700' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/134955860/embed/c45f63569b9f6350e8df6936ca8742939b56401b'></iframe>
 
  [1]: https://facebook.com/SPYBWR
  [2]: https://facebook.com/SPYBWR/ "SPYBWR"
