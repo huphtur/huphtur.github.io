@@ -58,6 +58,10 @@
 }
 
 // Posts
+.home .post {
+  margin-bottom: $spacing-unit*4;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }
@@ -66,9 +70,11 @@
   font-size: 47.5px;
   letter-spacing: -1px;
   line-height: 1;
+  color:black;
   @include media-query($on-laptop) {
     font-size: 36px;
   }
+  a { color:black; }
 }
 
 .post-content {
