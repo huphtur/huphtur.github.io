@@ -1,5 +1,5 @@
 ---
-title: 'There&#8217;s a Strava for Everything...'
+title: 'There&#8217;s a Strava for Everything'
 layout: post
 ---
 - [Strava for flying][1]

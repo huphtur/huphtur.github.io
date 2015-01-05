@@ -29,6 +29,7 @@ We've been using [Netsuite][1] at work since day one. The app is pretty powerful
 Guess which action I take every single time this screen pops up?
 
 **Update**: Crap! Looks like Netsuite caught on to me...  
+
 ![nutsweat](/images/nutscrape.jpg)
 
  [1]: http://netsuite.com/ "NutSweat"

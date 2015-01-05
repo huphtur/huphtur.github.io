@@ -1,5 +1,5 @@
 ---
-title: One Of My First Tweets
+title: One of My First Tweets
 layout: post
 ---
 <blockquote class="twitter-tweet" lang="en"><p>Nutella on sale: 2 for 2.50!</p>&mdash; M. Appelman (@huphtur) <a href="https://twitter.com/huphtur/status/12513371">March 25, 2007</a></blockquote>

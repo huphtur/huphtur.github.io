@@ -1,5 +1,5 @@
 ---
-title: 5 Things I Do Not Miss About San Francisco
+title: 5 Things I Do Not Miss about San Francisco
 layout: post
 ---
 [![streetspam](/images/streetspam.jpg)][1]
