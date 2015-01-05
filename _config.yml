@@ -1,14 +1,12 @@
 # Site settings
 title: huphtur
-email: huphtur@gmail.com
 description: I'm Dutch.
 url: "http://huphtur.github.io"
-twitter_username: huphtur
-github_username:  huphtur
 
 # Build settings
 markdown: kramdown
 permalink: /:title/
 
 sass:
-style: :expanded
+style: expanded
+deploy_style: compressed
