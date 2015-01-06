@@ -1,10 +1,12 @@
 ---
 title: 'NetSuite&#8217;s Ridiculous Security Questions'
 layout: post
----
-![nutsweat](/images/nutsweat.jpg)
+intro: yes
 
-We've been using [Netsuite][1] at work since day one. The app is pretty powerful but the UI and UX are seriously stuck in 1996. A few months ago a window started to pop up requesting the user to answer some security questions. I'm all for improved security but some of these questions are pretty ridiculous...
+---
+[Netsuite](http://netsuite.com/) is pretty powerful app but the UI and UX are seriously stuck in 1996. Some of these questions are pretty ridiculous...
+
+![nutsweat](/images/nutsweat.jpg)
 
 1.  What was your childhood nickname?
 2.  What is the name of your favorite childhood friend?
@@ -31,5 +33,3 @@ Guess which action I take every single time this screen pops up?
 **Update**: Crap! Looks like Netsuite caught on to me...  
 
 ![nutsweat](/images/nutscrape.jpg)
-
- [1]: http://netsuite.com/ "NutSweat"

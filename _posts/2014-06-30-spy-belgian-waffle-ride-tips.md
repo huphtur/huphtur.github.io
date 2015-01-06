@@ -1,16 +1,9 @@
 ---
 title: SPY Belgian Waffle Ride Tips
-author: huphtur
-excerpt: "The SPYBWR is by far the most brutal but fun race I’ve ever done. Here's a couple handy tips to get you prepared for this event."
+intro: yes
 layout: post
-permalink: /spy-belgian-waffle-ride-tips/
-categories:
-  - Cycling
-tags:
-  - Race Tips
-  - SPYBWR
 ---
-Back in April I participated in what was labeled *The Most Unique Cycling Event in The U.S.* aka the [SPY Belgian Waffle Ride][1]. A 217KM long ride/race with over 3450 meters of climbing, dirt sections, water crossing, jerseys, waffles and beer. What more does a bike nerd need?!
+Back in April I participated in what was labeled *The Most Unique Cycling Event in The U.S.* aka the [SPY Belgian Waffle Ride](https://facebook.com/SPYBWR). A 217KM long ride/race with over 3450 meters of climbing, dirt sections, water crossing, jerseys, waffles and beer. What more does a bike nerd need?!
 
 [![SPYBWR Flyer](/images/spybwr-flyer.jpg)][2]
 
@@ -110,7 +103,6 @@ That's it! By far the most brutal but fun race I've ever done and can't wait to 
 
 <iframe height='405' width='700' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/134955860/embed/c45f63569b9f6350e8df6936ca8742939b56401b'></iframe>
 
- [1]: https://facebook.com/SPYBWR
  [2]: https://facebook.com/SPYBWR/ "SPYBWR"
  [3]: https://bikereg.com/
  [4]: http://procyclingstats.com/rider/neil_Shirley "jups, an ex pro"
