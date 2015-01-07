@@ -4,7 +4,7 @@ layout: post
 intro: yes
 
 ---
-[Netsuite](http://netsuite.com/) is pretty powerful app but the UI and UX are seriously stuck in 1996. Some of these questions are pretty ridiculous...
+[Netsuite](http://netsuite.com/) is pretty powerful app but the UI and UX are seriously stuck in 1996. Some of their security questions are pretty ridiculous as well...
 
 ![nutsweat](/images/nutsweat.jpg)
 
