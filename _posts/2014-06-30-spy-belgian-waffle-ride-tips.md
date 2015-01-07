@@ -99,7 +99,7 @@ At the finish you will be rewarded with tons of food and beer. Eat as much as yo
 
 [![Beer yo. Photo: Jake Orness](/images/spybwr-beer.jpg)][18]
 
-That's it! By far the most brutal but fun race I've ever done and can't wait to it again next year (**April 12, 2015**)!
+That's it! By far the most brutal but fun race I've ever done and can't wait to it again next year (~~April 12, 2015~~ **[April 26, 2015][19]**)!
 
 <iframe height='405' width='700' frameborder='0' allowtransparency='true' scrolling='no' src='//www.strava.com/activities/134955860/embed/c45f63569b9f6350e8df6936ca8742939b56401b'></iframe>
 
@@ -120,3 +120,4 @@ That's it! By far the most brutal but fun race I've ever done and can't wait to 
  [16]: https://www.facebook.com/SPYBWR/photos/pb.355066887856291.-2207520000.1410207332./836326369730338/
  [17]: https://www.facebook.com/SPYBWR/photos/a.835614389801536.1073741830.355066887856291/835615433134765/
  [18]: https://www.facebook.com/SPYBWR/photos/a.847670185262623.1073741834.355066887856291/847670805262561/
+ [19]: https://www.facebook.com/spyperformance/photos/a.708934289120041.1073741826.269993789680762/984145304932270/
