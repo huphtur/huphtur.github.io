@@ -8,4 +8,5 @@ markdown: kramdown
 permalink: /:title/
 
 sass:
-    style: :compressed
+style: expanded
+deploy_style: compressed
