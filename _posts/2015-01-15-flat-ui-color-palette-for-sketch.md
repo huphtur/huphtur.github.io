@@ -6,4 +6,4 @@ layout: post
 
 [![Flat UI Color Palette](https://github.com/huphtur/Sketch-Flat-UI-Color-Palette/raw/master/Flat%20UI%20Color%20Palette.png)](https://github.com/huphtur/Sketch-Flat-UI-Color-Palette/archive/master.zip)
 
-Based on [these](http://flatuicolors.co) [things](http://flatuicolors.com), probably originated by Designmodo's [Flat UI](http://designmodo.com/flat/).
+Based on [these](http://flatuicolors.co) [things](http://flatuicolors.com), originated by Designmodo's [Flat UI](http://designmodo.com/flat/).
