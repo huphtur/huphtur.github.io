@@ -1,7 +1,7 @@
 # Site settings
 title: huphtur
 description: I'm Dutch.
-url: "http://huphtur.nl"
+url: "https://huphtur.nl"
 
 # Build settings
 markdown: kramdown
