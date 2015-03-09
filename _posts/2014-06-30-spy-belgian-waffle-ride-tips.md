@@ -108,7 +108,7 @@ That's it! By far the most brutal but fun race I've ever done and can't wait to 
  [4]: http://procyclingstats.com/rider/neil_Shirley "jups, an ex pro"
  [5]: https://facebook.com/SPYBWR/photos/pb.355066887856291.-2207520000.1410205617./843975022298806/
  [6]: http://theforcetraining.com/ "cycling coach"
- [7]: https://amazon.com/gp/product/B00E4U7MJO?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00E4U7MJO&linkCode=shr&tag=thhocr02-20&linkId=4QSYHWX5TWHXT3AE
+ [7]: http://www.amazon.com/gp/product/B00E9DAHUM?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00E9DAHUM&linkCode=shr&tag=thhocr02-20&linkId=A5ADVUAP5L6GYQKI
  [8]: http://strava.com/clubs/spy-bwr-23866
  [9]: https://www.facebook.com/SPYBWR/photos/pb.355066887856291.-2207520000.1403581121./835616586467983/
  [10]: https://www.facebook.com/SPYBWR/photos/a.847670185262623.1073741834.355066887856291/847670621929246/
