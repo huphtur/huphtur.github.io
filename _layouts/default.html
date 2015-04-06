@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
-  <body class="{% if page.title %}postpage{% else %}homepage{% endif %}">
-
+  <body class="{% if page.title %}postpage{% else %}homepage{% endif %}" style=opacity:0>
     {% include header.html %}
-
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
-
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </body>
-
 </html>
