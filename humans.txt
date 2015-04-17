@@ -1,0 +1,9 @@
+/* TEAM */
+Your title  : huphtur
+Twitter     : @huphtur
+From        : The Netherlands
+
+/* SITE */
+Language    : English
+Standards   : HTML5, CSS3, Sass
+Software    : Jekyll, Atom, GitHub, CloudFlare
