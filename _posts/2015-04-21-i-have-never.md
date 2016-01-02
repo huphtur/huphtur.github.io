@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "I Have Never…"
-date: "2015-04-21"
+title: I Have Never…
 ---
 * Done drugs
 * Drank coffee

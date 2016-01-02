@@ -1,12 +1,15 @@
 # Site settings
-title: M. Appelman
-description: I'm Dutch.
-url: "https://huphtur.nl"
+title       : M. Appelman
+description : I'm Dutch.
+url         : https://huphtur.nl
 
 # Build settings
-markdown: kramdown
-permalink: /:title/
+markdown    : kramdown
+highlighter : null
+kramdown    :
+  input     : GFM
+permalink   : /:title/
 
 sass:
-style: expanded
+style       : expanded
 deploy_style: compressed
