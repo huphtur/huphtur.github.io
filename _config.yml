@@ -5,7 +5,7 @@ url         : https://huphtur.nl
 
 # Build settings
 markdown    : kramdown
-highlighter : null
+highlighter : pygments
 kramdown    :
   input     : GFM
 permalink   : /:title/
