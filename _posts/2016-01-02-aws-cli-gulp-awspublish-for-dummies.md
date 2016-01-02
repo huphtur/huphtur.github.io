@@ -91,4 +91,4 @@ To upload all the things type: `gulp publish` and watch awspublish do it's magic
 
 This simple set up is what worked for me. There are probably a lot better ways to configure things, so make sure to read the [AWS-CLI](https://aws.amazon.com/documentation/cli/) and [awspublish](https://github.com/pgherveou/gulp-awspublish) docs to fine-tune your projects.
 
-If you have any questions or suggestions, feel free to [hollar at me](https://twitter.com/huphtur) on Twitter!
+If you have any questions or suggestions, feel free to [hollar at me](https://github.com/huphtur/huphtur.github.io/issues) on Github.
