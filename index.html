@@ -3,23 +3,23 @@ layout: default
 ---
 <div class="home">
 
-  {% for post in site.posts limit:10 %}
-  <article class="post">
-    <header class="post-header">
-      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    </header>
-    <div class="post-content">
-      {% if post.intro %}{{ post.excerpt }} <p><a href="{{ post.url }}">Continue reading &rarr;</a></p> {% else %}{{ post.content }}{% endif %}
-    </div>
-  </article>
-  {% endfor %}
-
-  {% for post in site.posts limit:10 offset:10 %}
-  <article class="post">
-    <header class="post-header">
-      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    </header>
-  </article>
-  {% endfor %}
+{% for post in site.posts %}
+  {% if forloop.index < 11 %}
+    <article class="post">
+      <header class="post-header">
+        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </header>
+      <div class="post-content">
+        {% if post.intro %}{{ post.excerpt }} <p><a href="{{ post.url }}">Continue reading &rarr;</a></p> {% else %}{{ post.content }}{% endif %}
+      </div>
+    </article>
+  {% else %}
+    <article class="post">
+      <header class="post-header">
+        <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </header>
+    </article>
+  {% endif %}
+{% endfor %}
 
 </div>
