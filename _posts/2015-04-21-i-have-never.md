@@ -8,6 +8,7 @@ title: I Have Never…
 * Been camping
 * Watched [Titanic](http://imgur.com/wGEEiCK)
 * Smoked cigarettes
+* Listened to a Drake song (voluntarily)
 * Believed in a higher power (besides my [watts](https://www.strava.com/athletes/1157))
 
 …and most likely never will.
