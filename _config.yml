@@ -4,11 +4,12 @@ description : I'm Dutch.
 url         : https://huphtur.nl
 
 # Build settings
-markdown    : kramdown
-highlighter : pygments
-kramdown    :
-  input     : GFM
-permalink   : /:title/
+excerpt_separator : <!--more-->
+markdown          : kramdown
+highlighter       : pygments
+kramdown          :
+  input           : GFM
+permalink         : /:title/
 
 sass:
 style       : expanded

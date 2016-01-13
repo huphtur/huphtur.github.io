@@ -4,7 +4,7 @@ layout: post
 intro: yes
 ---
 One of the better [Gulp](http://gulpjs.com/) plugins to upload your files to [Amazon S3](https://aws.amazon.com/s3/) has to be [awspublish](https://www.npmjs.com/package/gulp-awspublish). Unfortunately, since I'm not the brightest when it comes to CLI stuff, it took me a while to get it working properly. Here's a quick tutorial that will hopefully save other developers *in spe* some time.
-
+<!--more-->
 **Note:** This tutorial assumes you already have an AWS S3 bucket set up and a Gulp project running on your OS X system.
 
 ### Install AWS-CLI

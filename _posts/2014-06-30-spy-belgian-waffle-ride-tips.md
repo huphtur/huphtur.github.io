@@ -5,10 +5,10 @@ layout: post
 ---
 Back in April I participated in what was labeled *The Most Unique Cycling Event in The U.S.* aka the [SPY Belgian Waffle Ride](https://facebook.com/SPYBWR). A 217KM long ride/race with over 3450 meters of climbing, dirt sections, water crossing, jerseys, waffles and beer. What more does a bike nerd need?!
 
-[![SPYBWR Flyer](/images/spybwr-flyer.jpg)][2]
+![SPYBWR Flyer](/images/spybwr-flyer.jpg)
 
 I had absolutely no idea what to expect and wish I was a bit more informed about this race. So below are a couple of tips on how to do fairly well in this crazy event.
-
+<!--more-->
 **Note**: most these tips may sound very obvious to my fellow bike racers, but it never hurts to get some reaffirmation.
 
 ## Register Early
