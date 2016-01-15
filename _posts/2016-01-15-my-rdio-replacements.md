@@ -9,7 +9,7 @@ Some of us must have done something bad last year, because Santa shut down [Rdio
 
 After Rdio shut down a lot of people went with the obvious choices: [Spotify](https://www.spotify.com/), [Apple Music](http://www.apple.com/music/), [Deezer](http://www.deezer.com/), etc. I played around with them for a bit but non did it for me. So I decided to go with some other options.
 <!--more-->
-**Note**: my listening habbit is probably a tad different than the average person. I [don't care](/i-have-never/) much for Top 40 music and tend to focus on "electronic" music. I mostly listen to music via my notebook speakers or sometimes iPhone.
+**Note**: my listening habbit is probably a tad different than the average person. I [don't care](/i-have-never/) much for Top 40 music and tend to focus on "electronic" music. I mostly listen to music via my notebook speakers or headphones.
 
 
 ### Direct
