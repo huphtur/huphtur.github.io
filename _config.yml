@@ -6,7 +6,7 @@ url         : https://huphtur.nl
 # Build settings
 excerpt_separator : <!--more-->
 markdown          : kramdown
-highlighter       : pygments
+highlighter       : rouge
 kramdown          :
   input           : GFM
 permalink         : /:title/
