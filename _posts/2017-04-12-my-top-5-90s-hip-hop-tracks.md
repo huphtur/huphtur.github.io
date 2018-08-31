@@ -77,14 +77,14 @@ I could leave it at [Summer in the City](https://www.youtube.com/watch?v=6xN3KOY
 
 DJ Premiere made the beat specifically for Jeru. That wood block sound (Shelly Manne - [Infinity](https://www.youtube.com/watch?v=fox8MliHOeA)) is what drew me in to this track. I guess it symbolizes: "Chinese water torture". Works for me! Complex did a great [mini-doc](https://www.youtube.com/watch?v=XHyQ14zEZls) about the making of this song. And how sick is that opening line? _"You wanna front, what, jump up and get bucked"_
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/4Wa8GpCAj5o" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/4lVH8wkp6J4" allowfullscreen></iframe>
 
 
 ### GZA - Cold World (1995)
 
 The darkest and most sinister track of the _Liquid Swords_ album. Unfortunately not shown in the official video, but on the album the song start with a sample from the movie, [Shogun Assasin](https://en.wikipedia.org/wiki/Shogun_Assassin). _"I had a bad dream. Don't be afraid, bad dreams are only dreams. What a time you chose to be born."_
 
-<iframe width="700" height="394" src="//www.youtube.com/embed/zZtS1BzdNpw" allowfullscreen></iframe>
+<iframe width="700" height="394" src="//www.youtube.com/embed/ySL1pg1Xdpc" allowfullscreen></iframe>
 
 
 ### Fugees - Ready or Not (1996)
