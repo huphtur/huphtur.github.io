@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/huphtur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://huphtur.nl
+  * I am huphtur (https://keybase.io/huphtur) on keybase.
+  * I have a public key with fingerprint 7E6E 1929 F48B 44C0 0E62  0CFE 4359 820F 54C0 47F4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120acbe56d84ee6fba7b65a7e33d10e9579ca4dfa17d953628eda732258c2342a7b0a",
+      "fingerprint": "7e6e1929f48b44c00e620cfe4359820f54c047f4",
+      "host": "keybase.io",
+      "key_id": "4359820f54c047f4",
+      "kid": "0101a5c2fc2679b458ee9cdc142259402d2b5c8ef4ab396990b42ee0fac54c8636570a",
+      "uid": "b0b3e8d0cd558da0a31a39d3fb2deb19",
+      "username": "huphtur"
+    },
+    "service": {
+      "hostname": "huphtur.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568304844,
+  "expire_in": 157680000,
+  "prev": "8caa441d5bf82ab906788206ee9188ca79b8bba5d47084142b231c95ff5521cd",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TJVVHL4ERFxggAhISNYLGRiD9/vjBpIT0RxwZ4QYaNf347zcF273
+Xu6XfHhxaXRjgFNbbBRcohK1XCu01lgb8lGMiyxTgZwJDNyEQoOWioKz87L8o63z
+z9l5zvM85/k9OwNh/hqt39Y3D4e/cWH7337DvR86NfuqzRdrEMEiVSG6GqQcrG7A
+JAG7w1CuSIgOQTEc5UUBULTEkgDQssAzAk3xDCAICUMBRzGcyJOSzGOMxFEEjbNA
+4hkCxylWxAkSh3SUR1IRWTGXApvVppgd0JYBNMA4nJNJViBJEUUBjaOiDEiC4lgc
+lSmIkYxMQqHRYlcVMJzA20GaYoEYPBhW4/0P/0luFOMpEZdFnGY4gaRYADhREjES
+JuNIFJdwgRJZIJO8QHA0x6ECiQOAyrwIvViaoClmNbdz1U5ABQKwEipKFMVKPMoT
+GE9wEiELuAQEjFOJdmAz828DyDY6rUaH04a4UxEIuhQRqL2qg/yXkGY2QaHVZnFY
+RItJxR0Oq12n6hxVVpV4AAiGfy0MgmKWYIlQ4QI2u2IxIzoMMkWHonpiFM0SKMmS
+ZCoCKq2KDRgUlUExNIvCpb4DXNCSFXmeJDGJEmQW5wUOpRkWVkjDfjAWXsK2WEHg
+KYlkUJaEfQk4gYkcJcsUhWOihKhDVZgtiI7EYE6+FHralVIzDwcCiLuvd2+Axk+r
+eTrwKfV3abTBEU/+3C9DEZo6LtOduWD9ZOBdff+vI70k59jIDXaGD90OK84/Yore
+qP9jeW9u8kp/73DziYyl5oRZXsnKfqbb09JeGHfmbkPN7tzFK+PSXOKewx1KfL3x
+zncjX61dtz+lDJ2Ja7rUsth2/OuCqAHfX/PrJ0bGq7TTlelXz2c9e7HhXlSKONuy
+kls/n/PYUIZsuJ5W2fj4ZX/futjfQsXhnsTObfhLr7RHZkRO3/eVpJ1M+qxpbtAz
+fqY4+eB6T2xSx0lbeEB2ekZhrdfT5k5jcnrD0nf35J3a/Klr35/O0eNxnd/PjWVv
+aPjGst97Od8RfKLbwzNjM3f6jzzvef1sl8uXmb8U8CDnW2/qq9G1a0Z3Bn0+1e7W
+ToXkDgV8jOtDhInA87dnRr6McY0VGXbteLiVSl5uyiqNFtxJoxNnG02bHr3f/sDn
+Ku6eF+asyXXaltMpifb4S88tVRBF8WLX1O/eY5OFMd686Y6KdwaabXY09sZ8nv61
+zp/XftD33lvWHycevRg1E1wZUxcxeL1k+46yFfvsFzeqe9rqnaWH7hbEBV3e+UKB
+0RgWmH2tuqu19uFgTGvRrR/Yaze3ndZRM4cO3lzQjyidW/Sm1oWETZH3vFcTQFDK
+uarG0eWPvH3HslrqQ/PX5LYNRPpM9yO9e/iQ5aMBV8zlu9InN5+zXThQsuWovvHW
+Kf+YxZ9CDZPz/wC7sL3K
+=9y8I
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/huphtur
+
+==================================================================
